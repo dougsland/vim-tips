@@ -18,8 +18,8 @@ Just another notes from VIM
 :set nopaste
 ```
 
-### Set a keyboard key to pastemode
+### Set a keyboard key (F2) to pastemode
 ```
 $ ~/.vimrc
-set pastetoggle=<F3>
+set pastetoggle=<F2>
 ```
