@@ -10,6 +10,12 @@
 # vim-tips
 Just another notes from VIM
 
+## Set Tab
+Sets a tab to be four spaces
+```
+:set tabstop=4
+```
+
 ## Autoindent
 ```
 :set autoindent
