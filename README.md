@@ -6,9 +6,18 @@
     + [Show when insert mode is set](#Show-when-insert-mode-is-set)
     + [Do not highlight searched words](#Do-not-highlight-searched-words)
     + [Autoindent](#Autoindent)
+    + [Set Tab](#Set-Tab)
+    + [Convert tabs to spaces](#Convert-tabs-to-spaces)
+    + [Turn on syntax highlighting](#Turn-on-syntax-highlighting)
 
 # vim-tips
 Just another notes from VIM
+
+## Turn on syntax highlighting
+No need to use the set word, just syntax on
+```
+syntax on
+```
 
 ## Set Tab
 Sets a tab to be four spaces
@@ -16,6 +25,10 @@ Sets a tab to be four spaces
 :set tabstop=4
 ```
 
+## Convert tabs to spaces
+```
+:set expandtab
+```
 ## Autoindent
 ```
 :set autoindent
