@@ -16,7 +16,7 @@ Just another notes from VIM
 ## Turn on syntax highlighting
 No need to use the set word, just syntax on
 ```
-syntax on
+:syntax on
 ```
 
 ## Set Tab
