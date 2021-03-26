@@ -4,9 +4,21 @@
     + [Disable paste mode:](#disable-paste-mode-)
     + [Set a keyboard key to pastemode](#set-a-keyboard-key-to-pastemode)
     + [Show when insert mode is set](#Show-when-insert-mode-is-set)
+    + [Do not highlight searched words](#Do-not-highlight-searched-words)
+    + [Autoindent](#Autoindent)
 
 # vim-tips
 Just another notes from VIM
+
+## Autoindent
+```
+:set autoindent
+```
+
+## Do not highlight searched words
+```
+:set nohlsearch
+```
 
 ## Show when insert mode is set
 ```
